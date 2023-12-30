@@ -1,3 +1,3 @@
-# Leetcode answer 
+# Leetcode Answer
 
-Welcom to my leetcode repo! In this repo, I will share my answer that I used to solve Leetcode problems
+Welcome to my leetcode repository! In this repo, I will share my answer for Leetcode SQL Questions. The Language I use is MySQL 
